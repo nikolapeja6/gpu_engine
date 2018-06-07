@@ -43,7 +43,7 @@ module bottle
 			input integer x,
 			input integer y,
 			input wire pause,
-			input wire collision,
+			input wire collision
 		);
 		
 	//========================

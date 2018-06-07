@@ -43,3 +43,11 @@
 *.bak
 DE0_TOP/simulation/modelsim/DE0_TOP.sft
 DE0_TOP/simulation/modelsim/DE0_TOP_modelsim.xrf
+DE0_TOP/DE0_TOP.sta.summary
+DE0_TOP/db/DE0_TOP.sgate_sm.rvd
+DE0_TOP/db/DE0_TOP.sgate.rvd
+DE0_TOP/db/DE0_TOP.map_bb.logdb
+DE0_TOP/db/DE0_TOP.lpc.txt
+DE0_TOP/db/DE0_TOP.hier_info
+DE0_TOP/db/DE0_TOP.cbx.xml
+DE0_TOP/DE0_TOP.cdf
